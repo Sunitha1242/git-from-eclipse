@@ -5,6 +5,7 @@ public class Calculator {
 	private int number2;// data member  , instance variables
 	private int result;
 
+	//Calculator
 	public void printResult() {
 		System.out.println(result);
 	}
